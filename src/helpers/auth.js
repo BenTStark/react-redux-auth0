@@ -1,7 +1,7 @@
 import Auth0Lock from 'auth0-lock';
 import jwtDecode from 'jwt-decode';
 
-import {AUTH_TEST_CONFIG as authConfig} from './auth0-variables';
+import {AUTH_CONFIG as authConfig} from './auth0-variables';
 // Configure Auth0 lock
 export const lock = new Auth0Lock(authConfig.clientId, authConfig.domain, {
     auth: {

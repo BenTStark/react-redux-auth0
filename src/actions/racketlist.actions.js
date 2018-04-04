@@ -13,7 +13,7 @@ function registerNewRacket(name, manufacturer, release_year) {
     }
     const requestOptions = {
         method: 'get',
-        url: ['https://mirrorpi.ddns.net/api/insert', name, manufacturer, release_year].join('/'),
+        url: ['https://localhost:3000/api/insert', name, manufacturer, release_year].join('/'),
         headers: header
     };
 
@@ -39,7 +39,7 @@ function getRacketList() {
     }
     const requestOptions = {
         method: 'get',
-        url: 'https://mirrorpi.ddns.net/api',
+        url: 'https://localhost:3000/api',
         headers: header
     };
 

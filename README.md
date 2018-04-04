@@ -11,3 +11,6 @@ Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 # Coming soon: more information on the repository
+
+Donate Bitcoin (BTC): 132FN86AffnSDH1t5GWeNYpb5VLJPLHVRm
+Donate Ethereum (ETH): 0x4a65a43035D10d64eC9A1CDb33276EB03c6Ba03E

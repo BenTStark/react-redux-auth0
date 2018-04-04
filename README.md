@@ -13,4 +13,5 @@ You can find the most recent version of this guide [here](https://github.com/fac
 # Coming soon: more information on the repository
 
 Donate Bitcoin (BTC): 132FN86AffnSDH1t5GWeNYpb5VLJPLHVRm
+
 Donate Ethereum (ETH): 0x4a65a43035D10d64eC9A1CDb33276EB03c6Ba03E

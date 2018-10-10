@@ -1,4 +1,4 @@
-# React Redux Auth0 Boilerplate
+# React Redux Auth0 Boilerplate [![Inline docs](http://inch-ci.org/github/BenTStark/react-redux-auth0.svg?branch=master)](http://inch-ci.org/github/BenTStark/react-redux-auth0)
 
 This boilerplate uses:
 * React - for building user interfaces (https://reactjs.org/)
